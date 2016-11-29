@@ -1,26 +1,28 @@
 This project is a weather station.
 Created by BEng Electronic Engineering students from 
-Universidad Técnica Federico Santa María, Valparaíso, Chile.
+Universidad Tï¿½cnica Federico Santa Marï¿½a, Valparaï¿½so, Chile.
 
 This weather station was created to be used in a MSP430F1612 microcontroller
 
 Main project documents (.c and .h) can be found in Workspace/GATITO_project.
 
-* Escrito inicialmente el 20/11/2016 Por Jairo González
+* Escrito inicialmente el 20/11/2016 Por Jairo Gonzï¿½lez
 * Grupo 101 Proyecto Lab. Estructura de Computadores
-* Ingeniería Civil Electrónica
-* Universidad Técnica Federico Santa María
-* Valparaíso, Chile.
+* Ingenierï¿½a Civil Electrï¿½nica
+* Universidad Tï¿½cnica Federico Santa Marï¿½a
+* Valparaï¿½so, Chile.
 *
-* Este programa implementa una central climatológica
+* Este programa implementa una central climatolï¿½gica
 * en la MSP430F1612.
-* "Geo-Analizador Térmico Inteligente Totalmente Online"
+* "Geo-Analizador Tï¿½rmico Inteligente Totalmente Online"
 * G.A.T.I.T.O
 *
-* Se utiliza módulo wiznet, Real-Time-Clock, sensor de luminosidad,
+* Se utiliza mï¿½dulo wiznet, Real-Time-Clock, sensor de luminosidad,
 * sensor de temperatura/humedad, anemometro confeccionado
-* por nuestro grupo y display LCD. Se hace uso de comunicación
+* por nuestro grupo y display LCD. Se hace uso de comunicaciï¿½n
 * por SPI, I2C y mediciones mediante ADC.
 *
 * Partes del sitio web se hospedan en el servidor de alumnos
-* de electrónica UTFSM.
+* de electrï¿½nica UTFSM.
+
+jjjj
