@@ -2,7 +2,7 @@ This project is a weather station.
 Created by BEng Electronic Engineering students from 
 Universidad T�cnica Federico Santa Mar�a, Valpara�so, Chile.
 
-This weather station was created to be used in a MSP430F1612 microcontroller
+This weather station was created to be used with a MSP430F1612 microcontroller
 
 Main project documents (.c and .h) can be found in Workspace/GATITO_project.
 
