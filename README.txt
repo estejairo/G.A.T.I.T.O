@@ -24,5 +24,3 @@ Main project documents (.c and .h) can be found in Workspace/GATITO_project.
 *
 * Partes del sitio web se hospedan en el servidor de alumnos
 * de electr�nica UTFSM.
-
-jjjj jjjj
